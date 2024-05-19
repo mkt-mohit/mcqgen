@@ -22,7 +22,6 @@ var/
 *.egg
 *.exe
 *.pyc
-*.py
 
 # Installer logs
 pip-log.txt
